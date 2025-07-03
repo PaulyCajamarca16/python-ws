@@ -1,6 +1,5 @@
 
-class Mascota:
-    def __init__(self, tipo, nombre):
+   def __init__(self, tipo, nombre):
         self.tipo = tipo
         self.nombre = nombre
         
@@ -81,7 +80,8 @@ if __name__ == "__main__":
     print(total2)
     stock2 = producto2.stock
     
-    print(stock2)
+    print(stock2)class Mascota:
+ 
     
     
     
